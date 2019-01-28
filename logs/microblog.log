@@ -24,3 +24,7 @@ NameError: name 'app' is not defined
 2019-01-27 22:22:10,475 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
 2019-01-27 22:52:13,402 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
 2019-01-27 22:53:09,358 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
+2019-01-27 23:14:00,466 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
+2019-01-28 09:50:01,968 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
+2019-01-28 09:51:36,720 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
+2019-01-28 14:39:57,124 INFO: Microblog startup [in C:\Users\Mr. Isaac\Documents\macroblog\app\__init__.py:81]
